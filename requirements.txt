@@ -4,4 +4,3 @@ joblib
 scikit-learn
 streamlit
 excel
-optional_dependency
